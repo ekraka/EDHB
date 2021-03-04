@@ -1,0 +1,11 @@
+# custom input
+# input format : key [space] value
+
+# Local mode path
+lmode_path lmode
+
+# if path already added than just use the shortcut
+babel_path babel
+
+
+
