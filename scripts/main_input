@@ -1,0 +1,12 @@
+# custom input
+# input format : key [space] value
+
+# Local mode path
+lmode_path lmode 
+#/Users/47510753/Downloads/LocalMode-2016/lmodes.exe
+
+# if path already added than just use the shortcut
+babel_path babel
+
+
+
