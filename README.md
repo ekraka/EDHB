@@ -1,12 +1,19 @@
 Folder specifications:
 
-EDHB: binary file for linux. This file cannot be edited. Standalone for EDHB. Do not requires python.
+EDHB: binary file for linux. This file cannot be edited. Standalone for EDHB. Do not require python.
+
+
 scripts: Original python script. 
+
+
 examples: The xample folder can downloaded from https://smu.box.com/s/i2454jb9kpua8hw37ycdxw7codho5p2t
+
 
 Replace python with path_to_EDHB/EDHB for executing with binary
 
+
 INSTALLATION
+
 Go to scripts directory
 
 1) Open main_input
