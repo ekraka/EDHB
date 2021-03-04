@@ -7,6 +7,8 @@ Folder specifications:
 
 Replace python with path_to_EDHB/EDHB for executing with binary
 
+If secondary structure specification is required (annotation of alpha, beta, turn etc.), download ss.txt from https://smu.box.com/s/ncs1vzhhqn1dy92w2q1te6zq97g614ks and place the file in either EDHB directory (for using with binary) or scripts directory (for python based execution)
+
 
 INSTALLATION
 
