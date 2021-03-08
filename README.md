@@ -12,7 +12,7 @@ If secondary structure specification is required (annotation of alpha, beta, tur
 
 INSTALLATION
 
-Go to scripts directory
+Go to scripts directory (or EDHB for binary)
 
 1) Open main_input
 2) Point path to local mode if present
