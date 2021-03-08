@@ -33,13 +33,13 @@ The following parameters can be provided for external calculations
 
 Parameters that require no external file
 
-    1) -c to include C-H...O bonds
-    2) -l for local mode calculation
-    3) -f for local frequency calculation 
+    1) -c to include C-H...O bonds 
+    2) -l for local mode calculation from .fchk file generated from gaussian
+    3) -f for local frequency calculation from .fchk file generated from gaussian
     4) -Charg for charges from .fchk file generated from gaussian (Mulliken charges)
     5) -R to do Intramolecular analysis
     6) -a to add HB angle
-    7) -B to add bifurcation type
+    7) -B to add bifurcation type (hydrogen bond network)
 
 Parameters that require additional files
 
